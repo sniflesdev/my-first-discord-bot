@@ -1,2 +1,5 @@
-# my-first-discord-bot
-This is my first bot for discord.
+## This is my first discord bot.
+# IT WORKS!!!
+
+I censored the client id.
+
